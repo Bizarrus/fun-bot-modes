@@ -1,0 +1,11 @@
+{
+	"Name": "fun-bots-modes",
+	"Authors": ["Bizzi"],
+	"Description": "Additional player's spawn size by detected game mode",
+	"URL": "https://github.com/Joe91/fun-bots",
+	"Version": "1.0.0",
+	"HasVeniceEXT": true,
+	"Dependencies": {
+		"veniceext": ">=1.0.8"
+	}
+}
